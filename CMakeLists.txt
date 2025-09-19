@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.29)
 project(
-        CPPTemplate
+        CockatooGame
         VERSION 0.0.1
         DESCRIPTION "A simple C++ project template"
-        HOMEPAGE_URL "https://github.com/NicolasReboule/CPPTemplate"
+        HOMEPAGE_URL "https://github.com/NicolasReboule/CockatooGame"
         LANGUAGES CXX
 )
 set(CMAKE_CXX_STANDARD 20)
